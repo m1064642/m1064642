@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning AEM componenet, jsp , servlet, web applications
 - 💞️ I’m looking to collaborate on java application, android application
-- 📫 How to reach me ... mail me at nikhil.mitkari@mindtree.com
+- 📫 How to reach me ...nikhil.mitkari@mindtree.com
 
 <!---
 m1064642/m1064642 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
